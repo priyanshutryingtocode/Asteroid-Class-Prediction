@@ -61,10 +61,14 @@ The target variable is the **asteroid class**.
 ```text
 Asteroid-Class-Prediction/
 │
-├── MAIN.ipynb              # Complete ML pipeline
-├── Test Dataset/           # Sample test data
-├── README.md               # Project documentation
-└── requirements.txt        # Python dependencies (recommended)
+├── MAIN.ipynb              # End-to-end training pipeline
+├── preprocess.ipynb        # Data preprocessing
+├── featureanalysis.ipynb   # Exploratory data analysis
+├── prediction.ipynb        # Prediction on new data
+├── testdatagen.ipynb       # Test dataset generation
+├── Test Dataset/
+├── requirements.txt
+└── README.md
 ```
 
 ---
