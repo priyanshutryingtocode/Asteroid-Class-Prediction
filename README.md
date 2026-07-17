@@ -168,20 +168,6 @@ Model Evaluation
       ▼
 Asteroid Class Prediction
 ```
-
----
-
-## 💡 Future Improvements
-
-* Compare multiple ML algorithms
-* Hyperparameter tuning using GridSearchCV
-* Cross-validation
-* Feature importance analysis
-* SHAP explainability
-* Model persistence using Pickle or Joblib
-* Deploy the model with Streamlit or Flask
-* Add an interactive prediction interface
-
 ---
 
 ## 🤝 Contributing
